@@ -1,0 +1,4 @@
+tensorflow
+scikit-learn
+opencv-contrib-python==3.4.2.17
+scikit-image
